@@ -9,15 +9,4 @@ Releases:
 | | SWF | Web | Desktop | Android | iOS (need jailbreak) |
 |---|---|---|---|---|---|
 | DuxiuApp: 读秀图书下载制作工具 | | | DuxiuDown | DuxiuLite | DuxiuLite (iOS5 AIR+ANE) <br/> DuxiuApp (iOS5/6 Objective-C) |
-| XpChess: 多人中国象棋 |
-| 2D 
-Flash3D 
-Stage3D | 2D 
-Flash3D 
-Stage3D | 2D 
-Flash3D 
-Stage3D | 2D 
-
-Stage3D | 2D 
-
-Stage3D |
+| XpChess: 多人中国象棋 | 2D <br/> Flash3D <br/> Stage3D | 2D <br/> Flash3D <br/> Stage3D | 2D <br/> Flash3D <br/> Stage3D | 2D <br/>Stage3D | 2D <br/> Stage3D |
