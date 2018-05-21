@@ -1,10 +1,8 @@
-![Sigma](sigma.png)
+<img src='sigma.png' alt='ΣigmaApp' title='ΣigmaApp: Multi-platform applications' />
 
 # sigma-app
 
-Multi-platform application set named 'ΣigmaApp'
-
-'ΣigmaApp' is an application set of toolkits or games on multiple platforms.
+Multi-platform applications are named 'ΣigmaApp'
 
 Releases:
 
