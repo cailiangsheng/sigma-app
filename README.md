@@ -1,4 +1,4 @@
-<img src='sigma.png' alt='ΣigmaApp' title='ΣigmaApp: Multi-platform applications' />
+<img src='icon/sigma.png' alt='ΣigmaApp' title='ΣigmaApp: Multi-platform applications' />
 
 # sigma-app
 
